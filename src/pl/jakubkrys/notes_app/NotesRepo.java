@@ -1,6 +1,4 @@
-package pl.jakubkrys.repos;
-
-import pl.jakubkrys.Note;
+package pl.jakubkrys.notes_app;
 
 import java.util.Arrays;
 

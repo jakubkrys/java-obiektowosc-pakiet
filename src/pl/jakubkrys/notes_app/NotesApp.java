@@ -1,6 +1,4 @@
-package pl.jakubkrys;
-
-import pl.jakubkrys.repos.NotesRepo;
+package pl.jakubkrys.notes_app;
 
 import java.util.Scanner;
 
