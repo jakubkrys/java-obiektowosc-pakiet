@@ -1,4 +1,4 @@
-package pl.jakubkrys;
+package pl.jakubkrys.notes_app;
 
 public class Note {
     private String phoneNumber;
